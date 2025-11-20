@@ -15,11 +15,21 @@ Thank you.
 
 Requirements:
 
-CUDA 11.7                          
-Python 3.8                                
-pytorch 1.13.0                                             
-Torchvison 0.14.0                                                     
-numpy 1.24.4                                                           
+# Core dependencies 
+torch==1.13.0
+torchvision==0.14.0
+torchaudio==0.13.0
+numpy==1.19.5
+scipy>=1.5
+
+# Model-related dependencies
+einops>=0.6
+tqdm>=4.60
+matplotlib>=3.1
+
+# External modules 
+mamba-ssm
+causal-conv1d                                                         
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                                                            
 Contact:
 
