@@ -2,7 +2,8 @@
 ```
 This package contains the source code which is associated with the following paper:
 
-Xing Yao, Rencheng Song, Juan Cheng .et al, “HRVFusion: Video-based Long-Term Heart Rate Variability Measurement with Conditional Diffusion Models” IEEE Transactions on Multimedia （ACCEPT)
+Xing Yao, Rencheng Song, Juan Cheng .et al, “HRVFusion: Video-based Long-Term Heart Rate Variability
+Measurement with Conditional Diffusion Models” IEEE Transactions on Multimedia （ACCEPT)
 
 Edited by Xing Yao and Rencheng Song.
 
@@ -29,10 +30,10 @@ causal-conv1d
 ```
 Don't hesitate to contact me if you meet any problems when using this code.
 
-Rencheng Song                                                           
-Department of Biomedical Engineering                                             
-Hefei University of Technology                                                                                                                          
-Email: rcsong@hfut.edu.cn                                         
+Rencheng Song     
+Department of Biomedical Engineering        
+Hefei University of Technology                                                                                              
+Email: rcsong@hfut.edu.cn   
 Homepage: https://renchengsong.github.io
 ```                
 Last update: 20-Nov-2025 
