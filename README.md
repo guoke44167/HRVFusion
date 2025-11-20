@@ -2,8 +2,8 @@
 ```
 This package contains the source code which is associated with the following paper:
 
-Xing Yao, Rencheng Song, Juan Cheng .et al, “HRVFusion: Video-based Long-Term Heart Rate Variability
-Measurement with Conditional Diffusion Models” IEEE Transactions on Multimedia （ACCEPT)
+Xing Yao, Rencheng Song, Juan Cheng .et al, “HRVFusion: Video-based Long-Term Heart Rate VariabilityMeasurement with Conditional
+Diffusion Models” IEEE Transactions on Multimedia （ACCEPT)
 
 Edited by Xing Yao and Rencheng Song.
 
