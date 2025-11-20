@@ -27,6 +27,6 @@ Don't hesitate to contact me if you meet any problems when using this code.
 Rencheng Song
 Department of Biomedical Engineering
 Hefei University of Technology                                                            
-Email: rcsong@hfut.edu.cn
-Homepage: https://renchengsong.github.io/
-Last update: 14-Jul-2025
+Email: rcsong@hfut.edu.cn                                         
+Homepage: https://renchengsong.github.io                          
+Last update: 14-Jul-2025 
